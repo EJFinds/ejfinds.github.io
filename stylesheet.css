@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.centrado{
+    margin: 10%;
+    margin-top: 3%;
+}
+
+.bg-orange {
+    background-color: #FFA500; /* Cor laranja */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+  
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
